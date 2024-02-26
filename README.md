@@ -1,4 +1,4 @@
-# Stormly
-A weather app for Android being made by me and my friend
+# Stormly DEV
+This is the development branch, with the latest additions and updates. Expect many bugs and glitches in this branch.
 
 **THIS IS A WORK-IN-PROGRESS**
